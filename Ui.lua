@@ -1,5 +1,5 @@
 -- < Real UI : Visual Command > --
-
+-- < Thx > --
 
 -- // Services
 local CoreGui = game:GetService('CoreGui')
@@ -480,7 +480,7 @@ function Library:CreateWindow(Properties)
 
     -- Utility:Tween(Main, {Size = UDim2.new(0, 500, 0, 65)}, 0.25)
     -- Utility:Tween(Main, {BackgroundTransparency = 0}, 0.25)
-    -- MainStroke.Thickness = 1
+    MainStroke.Thickness = 1
 
     -- task.wait(0.5)
 
